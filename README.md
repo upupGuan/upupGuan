@@ -1,4 +1,4 @@
-## Hi there! 👋👋  Happy Life, Happy Coding 😄
+## Hi there! 👋👋  😄
 
 
 
