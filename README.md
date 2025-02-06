@@ -1,6 +1,12 @@
 ## Hi there! 👋👋  😄
 
-
+```text
+    __
+   /  \__
+  |      |
+  |  ❀   |  ❀
+   \____/
+```
 
 <!--
 **upupGuan/upupGuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
