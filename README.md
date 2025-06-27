@@ -1,12 +1,11 @@
 ## Hi there! 👋👋  😄  
 
 ```text                                                                                     
-                                .------..------..------..------..------..------..------.
-                                |W.--. ||E.--. ||L.--. ||C.--. ||O.--. ||M.--. ||E.--. |
-                                | :/\: || (\/) || :/\: || :/\: || :/\: || (\/) || (\/) |
-                                | :\/: || :\/: || (__) || :\/: || :\/: || :\/: || :\/: |
-                                | '--'W|| '--'E|| '--'L|| '--'C|| '--'O|| '--'M|| '--'E|
-                                `------'`------'`------'`------'`------'`------'`------'
+                                                __                        
+                                _      _____  / /________  ____ ___  ___ 
+                                | | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \
+                                | |/ |/ /  __/ / /__/ /_/ / / / / / /  __/
+                                |__/|__/\___/_/\___/\____/_/ /_/ /_/\___/ 
 ```
 Skills
 ---
@@ -38,14 +37,14 @@ About Me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- 
+
 Stars
 ---
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmanKishore&layout=compact&theme=default" alt=LakshmanKishore />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LakshmanKishore&show_icons=true&locale=en&theme=default" alt="LakshmanKishore" /></p>
+<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=LakshmanKishore&show_icons=true&locale=en&theme=default" alt="LakshmanKishore" /></p>
 
--->
+
 
 
 <!--
