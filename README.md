@@ -1,16 +1,16 @@
 ## Hi there! 👋👋  😄  
 
 ```text                                                                                     
-                            _____                                                      _____ 
-                            ( ___ )                                                    ( ___ )
-                            |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
-                            |   | __        __     _                                _  |   | 
-                            |   | \ \      / /___ | |  ___  ___   _ __ ___    ___  | | |   | 
-                            |   |  \ \ /\ / // _ \| | / __|/ _ \ | '_ ` _ \  / _ \ | | |   | 
-                            |   |   \ V  V /|  __/| || (__| (_) || | | | | ||  __/ |_| |   | 
-                            |   |    \_/\_/  \___||_| \___|\___/ |_| |_| |_| \___| (_) |   | 
-                            |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
-                            (_____)                                                    (_____)
+                                _____                                                      _____ 
+                                ( ___ )                                                    ( ___ )
+                                |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
+                                |   | __        __     _                                _  |   | 
+                                |   | \ \      / /___ | |  ___  ___   _ __ ___    ___  | | |   | 
+                                |   |  \ \ /\ / // _ \| | / __|/ _ \ | '_ ` _ \  / _ \ | | |   | 
+                                |   |   \ V  V /|  __/| || (__| (_) || | | | | ||  __/ |_| |   | 
+                                |   |    \_/\_/  \___||_| \___|\___/ |_| |_| |_| \___| (_) |   | 
+                                |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
+                                (_____)                                                    (_____)
 ```
 Skills
 ---
@@ -42,14 +42,14 @@ About Me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<!--
 Stars
 ---
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmanKishore&layout=compact&theme=default" alt=LakshmanKishore />
 
-<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=LakshmanKishore&show_icons=true&locale=en&theme=default" alt="LakshmanKishore" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LakshmanKishore&show_icons=true&locale=en&theme=default" alt="LakshmanKishore" /></p>
 
-
+-->
 
 
 <!--
