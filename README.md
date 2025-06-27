@@ -21,9 +21,10 @@ My Skills
 
 Development Env
 ---
-<p align="center">
+<p align="left">
   <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/macOS(M1)-e03a3a?style=flat-square&logo=apple&logoColor=white">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img alt="arch" src="https://img.shields.io/badge/Arch_Linux-3572a5?style=flat-square&logo=archlinux&logoColor=white">
 </p>
 
 
