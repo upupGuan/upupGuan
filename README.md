@@ -13,7 +13,7 @@
 | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  
 ```
-My Skills
+Skills
 ---
 <p align="left">
   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
@@ -32,7 +32,7 @@ Development Env
   <img alt="archlinux" src="https://img.shields.io/badge/Arch_Linux-3572a5?style=flat-square&logo=archlinux&logoColor=white">
 </p>
 
-Intro
+About Me
 ---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -42,6 +42,13 @@ Intro
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Stars
+---
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmanKishore&layout=compact&theme=default" alt=LakshmanKishore />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LakshmanKishore&show_icons=true&locale=en&theme=default" alt="LakshmanKishore" /></p>
 
 <!-- 
 <p align="center">
