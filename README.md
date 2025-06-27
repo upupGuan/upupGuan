@@ -16,7 +16,6 @@ My Skills
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-bc8362?style=flat-square&logo=rust">
   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <img alt="C" src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c">
 </p>
 
 Development Env
@@ -24,11 +23,14 @@ Development Env
 <p align="left">
   <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/macOS(M1)-e03a3a?style=flat-square&logo=apple&logoColor=white">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
-  <img alt="arch" src="https://img.shields.io/badge/Arch_Linux-3572a5?style=flat-square&logo=archlinux&logoColor=white">
+  <img alt="archlinux" src="https://img.shields.io/badge/Arch_Linux-3572a5?style=flat-square&logo=archlinux&logoColor=white">
 </p>
 
 
-<p align="center"><img width=45% src="https://github-readme-stats.vercel.app/api?username=upupGuan&theme=tokyonight&show_icons=true"> <img width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=upupGuan&hide_border=true&theme=tokyonight&hide=TeX&layout=compact"></p>
+<p align="center">
+<img width=45% src="https://github-readme-stats.vercel.app/api?username=upupGuan&theme=light&show_icons=true"> 
+<img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=upupGuan&hide_border=true&theme=light&hide=TeX&layout=compact">
+</p>
 
 <!--
 **upupGuan/upupGuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
